@@ -19,13 +19,19 @@
 
 ## 💼 Professional Experience
 
-<div align="center">
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/KPMG_logo.svg" alt="KPMG" width="120"/>
+  <img src="https://logo.clearbit.com/sagarsoft.in" alt="Sagarsoft" width="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Samsung_Logo.svg" alt="Samsung" width="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/EY_logo_2019.svg" alt="EY" width="120"/>
+</p>
 
-| ![KPMG](https://img.shields.io/badge/KPMG-00338D?style=for-the-badge&logo=kpmg&logoColor=white) | ![Sagarsoft](https://img.shields.io/badge/Sagarsoft-4285F4?style=for-the-badge&logoColor=white) | ![Samsung](https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white) | ![EY](https://img.shields.io/badge/Ernst_&_Young-FFE600?style=for-the-badge&logo=ey&logoColor=black) |
-|:---:|:---:|:---:|:---:|
-| **Business Analyst Intern** | **Data Analyst I** | **Data Analytics Intern** | **Summer Analyst** |
-
-</div>
+<p align="center">
+  <b>KPMG</b> | Business Analyst Intern&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Sagarsoft Inc.</b> | Data Analyst I&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Samsung Electronics</b> | Data Analytics Intern&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Ernst & Young</b> | Summer Analyst
+</p>
 
 ---
 
