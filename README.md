@@ -19,17 +19,13 @@
 
 ## 💼 Professional Experience
 
-**KPMG** | Business Analyst Intern  
-*Monitored model performance across compliance systems; partnered with Finance and IT teams to standardize monitoring logic, cutting decision cycles from 3 days to under 8 hours*
+<div align="center">
 
-**Sagarsoft Inc.** | Data Analyst I  
-*Optimized 15+ Snowflake ETL pipelines processing 10M+ daily transactions; designed 8+ Power BI dashboards and delivered insights impacting $2M+ revenue*
+| ![KPMG](https://img.shields.io/badge/KPMG-00338D?style=for-the-badge&logo=kpmg&logoColor=white) | ![Sagarsoft](https://img.shields.io/badge/Sagarsoft-4285F4?style=for-the-badge&logoColor=white) | ![Samsung](https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white) | ![EY](https://img.shields.io/badge/Ernst_&_Young-FFE600?style=for-the-badge&logo=ey&logoColor=black) |
+|:---:|:---:|:---:|:---:|
+| **Business Analyst Intern** | **Data Analyst I** | **Data Analytics Intern** | **Summer Analyst** |
 
-**Samsung Electronics** | Data Analytics Intern  
-*Built statistical models analyzing 500K+ transactions; conducted root cause analysis reducing verification cycles by 30%*
-
-**Ernst & Young** | Summer Analyst  
-*Monitored 5M+ banking transactions for compliance; built 6+ Tableau dashboards tracking metrics and supporting regulatory reporting*
+</div>
 
 ---
 
@@ -100,6 +96,7 @@
 ### Notable Coursework
 - Data Science & Analytics - Statistical modeling, machine learning, big data
 - FinTech & RegTech - Technology applications in financial services
+- Software Engineering - Full-stack development, system design
 - Business Intelligence - Data warehousing, visualization, analytics
 
 ---
@@ -124,7 +121,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-naidu-k-074a99226)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kan9336@nyu.edu)
-
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
 ---
 
