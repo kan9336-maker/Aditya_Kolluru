@@ -100,7 +100,6 @@
 ### Notable Coursework
 - Data Science & Analytics - Statistical modeling, machine learning, big data
 - FinTech & RegTech - Technology applications in financial services
-- Software Engineering - Full-stack development, system design
 - Business Intelligence - Data warehousing, visualization, analytics
 
 ---
@@ -125,7 +124,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-naidu-k-074a99226)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kan9336@nyu.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
 
 ---
 
@@ -157,4 +156,4 @@
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [yourusername](https://github.com/kan9336-maker)
